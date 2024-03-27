@@ -5,7 +5,9 @@
 💻 Tenho experiência em:
 
 JavaScript
+
 Programação Estruturada (C/C++)
+
 Microsoft 365
 
 
