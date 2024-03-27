@@ -1,4 +1,5 @@
 👋 Olá, eu sou Carolina Kienen
+
 🚀 Atualmente estudando react para aprimoramentos futuros.
 
 💻 Tenho experiência em:
