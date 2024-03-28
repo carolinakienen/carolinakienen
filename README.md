@@ -1,17 +1,8 @@
-👋 Olá, eu sou Carolina Kienen
+👋 Olá, eu sou Carolina Kienen!
 
 🚀 Atualmente estudando react para aprimoramentos futuros.
 
-💻 Tenho experiência em:
-
-JavaScript
-
-Programação Estruturada (C/C++)
-
-Microsoft 365
-
-
-📘 Curso Análise e Desenvolvimento de Sistemas para aprofundar meu conhecimento em programação e design de software.
+💻 Curso Análise e Desenvolvimento de Sistemas.
 
 📫 Entre em contato: carolinakienen@hotmail.com
 <!---
